@@ -4,7 +4,7 @@ from snowflake.snowpark.functions import col
 import requests
 
 # Write directly to the app
-st.title(":cup_with_straw: Customize your Smoothie :cup_with_straw:")
+st.title(":cup_with_straw: Sameera sip - Feels so smooth :cup_with_straw:")
 
 name=st.text_input('Name on Smoothie: ')
 st.write(
